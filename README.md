@@ -1,4 +1,4 @@
-# Detecção de Regimes de Volatilidade via Modelagem de Variáveis Latentes: Uma Abordagem Experimental com Ações do Itaú Unibanco
+# Detecção de Regimes de Volatilidade via Modelagem de Variáveis Latentes com Ações do Itaú Unibanco
 
 A gestão de risco de mercado fundamenta-se na capacidade de quantificar a incerteza dos retornos de ativos financeiros. Um dos maiores desafios nessa área é a natureza não estacionária da volatilidade, que apresenta o fenômeno conhecido como _volatility clustering_ (agrupamento de volatilidade), onde períodos de alta oscilação tendem a persistir.  
 Métodos tradicionais de mensuração de risco, como o Value at Risk (VaR) histórico, são amplamente utilizados devido à sua simplicidade e por não dependerem de pressupostos paramétricos sobre a distribuição dos retornos. No entanto, esses métodos assumem implicitamente uma forma de estacionaridade local, atribuindo pesos iguais às observações dentro de uma janela histórica fixa. Essa abordagem pode ser inadequada em contextos de mudanças estruturais no mercado, como crises financeiras ou períodos de estresse.
